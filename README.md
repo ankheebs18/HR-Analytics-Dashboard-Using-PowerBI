@@ -1,7 +1,3 @@
-# HR Analytics Dashboard
-
-Objectives:
-
-1. Developing a comprehensive HR analytics dashboard to provide real-time insights into key performance indicators (KPIs) and retention metrics.
-2. Identify factors influencing employee performance and retention through data-driven analysis.
-3. Implement targeted interventions and initiatives informed by dashboard insights to improve organizational effectiveness.
+Overview
+⚫ Welcome to the HR Analytics Dashboard repository! This Power BI dashboard offers a comprehensive view of the workforce dynamics, enabling data-driven HR decisions. 
+Explore various facets from employee demographics to job satisfaction metric
