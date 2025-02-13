@@ -2,12 +2,10 @@
 
 ## Overview ##
 
-⚫ Welcome to the HR Analytics Dashboard repository! This Power BI dashboard offers a comprehensive view of our workforce dynamics, enabling data-driven HR decisions. Explore various facets of our organization, from employee demographics to job satisfaction metrics.
+Welcome to the HR Analytics Dashboard repository! This Power BI dashboard offers a comprehensive view of the workforce dynamics, enabling data-driven HR decisions. Exploring various facets from employee demographics to job satisfaction metrics.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* ## Title :- HR Analytics Dashboard 
-
-* ## Created by :- Naveen Kumar Adapala
+* ## Title :- HR Analytics Dashboard
 
 * ## Tool used:- 
 - Microsoft Excel
@@ -19,7 +17,7 @@
 
 ## Cleaning and Analyzing using Power Query
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* Open Excel and connect to your HR Analytics Data
+* Open Excel and connect to the HR Analytics Data
   
 * Use Power Query to clean and transform the data
   
@@ -59,24 +57,20 @@
 ## Slicers
 
 * Department: Filter data by department for targeted analysis.
-  
-* Job Role: Explore insights specific to different job roles.
-  
-* Education Field: Understand workforce distribution based on education background.
-  
-* Business Travel: Analyze the impact of business travel on various metrics.
+
+* Gender Metrics: Breakdown of male and female employees.
 
 ## Cards
 
-* Total Employees: Current count of employees in the organization.
-
-* Gender Metrics: Breakdown of male and female employees, along with respective percentages.
+* Employees Count: Current count of employees in the organization.
 
 * Attrition Metrics: Track attrition rates and percentages.
 
 * Average Salary: Overview of average salary across departments.
 
 * Average Company Years: Average number of years employees have been with the company.
+
+* Age Group Distribution: Explore the age groups represented in the organization.
 
 ## Multi-Card Analysis
 
@@ -85,34 +79,20 @@
 
 ## Bar Charts
 
-* Work Life Balance: Visualize work-life balance ratings across the organization.
-
-* Job Satisfaction: Analyze overall job satisfaction levels.
-
-* Environment Satisfaction: Assess employee satisfaction with their work environment.
-  
-
-## Donut Charts
-
-* Experience Distribution: Understand the distribution of employee experience levels.
-
-* Education Distribution: Visualize the educational background of the workforce.
+* Salary Satisfaction: Visualize salary range across the organization.
 
 * Age Group Distribution: Explore the age groups represented in the organization.
 
-
-## Dashboard
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Click there to View the HR Analytics Dashboard on Power BI 👇👇👇
-
-https://www.novypro.com/project/hr-analytics-dashboard-on-power-bi
+* Job Satisfaction: Analyze overall job satisfaction levels.
 
 
+## Donut Chart
 
-## View the HR Analytics Dashboard on Power BI
+* Education Distribution: Visualize the educational background of the workforce.
 
-![Screenshot 2024-01-29 095652](https://github.com/AdapalaNaveenKumar/HR-Analytics-Dashboard-on-Power-BI/assets/114572337/ce30c03f-6295-4a88-ab04-e12777a1b2f2)
+## Line Chart
+
+* Years in comapany: Visualize the years worked in the comapny.
 
 
 
