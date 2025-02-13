@@ -18,7 +18,7 @@ Welcome to the HR Analytics Dashboard repository! This Power BI dashboard offers
 ## Cleaning and Analyzing using Power Query
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Open Excel and connect to the HR Analytics Data
-  
+
 * Use Power Query to clean and transform the data
   
 * Apply all necessary cleaning steps, such as removing duplicates, renaming columns, and changing data types
